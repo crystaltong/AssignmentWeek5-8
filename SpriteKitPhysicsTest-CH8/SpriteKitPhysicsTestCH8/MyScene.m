@@ -13,7 +13,7 @@ static inline CGFloat ScalarRandomRange(CGFloat min, CGFloat max)
     return floorf(((double)arc4random() / ARC4RANDOM_MAX) *
     (max-min) + min);
 }
-//commit
+//commit again
 @implementation MyScene
 {
     SKSpriteNode *_square;
