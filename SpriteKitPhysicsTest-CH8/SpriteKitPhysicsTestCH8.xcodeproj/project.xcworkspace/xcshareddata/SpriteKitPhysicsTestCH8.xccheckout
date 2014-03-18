@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>25E8DAA0-A4CB-47A4-AD78-94A7BB67DEC4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SpriteKitPhysicsTestCH8</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8257C92B-1B91-4970-9CB4-283AFA909172</key>
+		<string>https://github.com/crystaltong/SpriteKitPhysicsTest-CH8.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SpriteKitPhysicsTestCH8.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8257C92B-1B91-4970-9CB4-283AFA909172</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/crystaltong/SpriteKitPhysicsTest-CH8.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8257C92B-1B91-4970-9CB4-283AFA909172</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8257C92B-1B91-4970-9CB4-283AFA909172</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SpriteKitPhysicsTest-CH8</string>
+		</dict>
+	</array>
+</dict>
+</plist>
